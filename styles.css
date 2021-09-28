@@ -1,0 +1,55 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: cursive;
+  background-color: #4B3869;
+  color: white;
+}
+main {
+  text-align: center;
+  margin: 5% auto 0;
+}
+.Heading{
+  font-size: 2.5rem;
+}
+label{
+  font-size: large;
+}
+#input{
+  display: block;
+  margin: 1rem auto ;
+  padding: 0.4rem;
+  border-radius: 0.5rem;
+  outline: none;
+}
+#output-btn{
+  background-color: #5C7AEA;
+  border: none;
+  color: white;
+  padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+  font-size: large;
+  cursor: pointer;
+  outline: #fff;
+  margin: auto;
+  display: block;
+}
+#text{
+  font-size: large;
+  font-weight: 500;
+}
+.footer-class{
+  margin : 20% auto 0;
+  text-align: center;
+}
+.links{
+  margin: 1% 1% 0;
+}
+.copywrite{
+  padding: 0 0 1rem;
+}
+img{
+  display: inline;
+  width: 1rem;
+  height:1%;
+}
